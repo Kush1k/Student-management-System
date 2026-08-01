@@ -1,22 +1,46 @@
 # Student Management System
 
-A menu-driven Student Management System built using Python.
+A menu-driven Student Management System developed in Python.
 
 ## Features
 
-- Add a new student
-- View all students
-- Search for a student
-- Update student details
-- Delete a student
-- Prevent duplicate IDs
+✅ Add Student
 
-## Technologies Used
+✅ Display Students
 
-- Python
+✅ Search Student
+
+✅ Update Student
+
+✅ Delete Student
+
+✅ Duplicate ID Detection
+
+---
+
+## Technologies
+
+• Python
+
+---
+
+## Concepts Used
+
+• Functions
+
+• Lists
+
+• Dictionaries
+
+• Loops
+
+• User Input
+
+---
 
 ## Future Improvements
 
-- File handling for permanent storage
-- Graphical User Interface (GUI)
-- Database integration using SQLite or MySQL
+- SQLite Database
+- Tkinter GUI
+- Login Authentication
+- Export to CSV
